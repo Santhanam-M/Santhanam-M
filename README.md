@@ -1,4 +1,4 @@
-👋 Hi there, I'm Santhanam!
+👋 **Hi there, I'm Santhanam!**
 
 👨🏻‍💻 **About Me**
 - 🕸️ Interested in Web Development.
@@ -12,6 +12,6 @@
 - 🔧 Git 
 
 🤝🏻 **Connect with Me**
-- [LinkedIn]https://www.linkedin.com/in/santhanam1994/
-- [GitHub]https://github.com/Santhanam-M
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/santhanam1994/) [LinkedIn](https://www.linkedin.com/in/santhanam1994)
+- [GitHub](https://github.com/Santhanam-M)
 - ✉️ Email me: santhanamui@gmail.com
