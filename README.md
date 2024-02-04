@@ -11,7 +11,7 @@
 <li>🛢 &nbsp; MongoDB</li>
 <li>🔧 &nbsp; Git</li>
 
-<h3>🤝🏻Connect with Me**</h3>
+<h3>🤝🏻Connect with Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/santhanam1994"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santhanam-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/Santhanam-M"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Santhanam--M-blue?style=flat&logo=github"></a>
