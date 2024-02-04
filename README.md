@@ -1,23 +1,17 @@
-Hi there 👋, I’m Santhanam!
+👋 Hi there, I'm Santhanam!
 
-👨🏻‍💻 About Me
+👨🏻‍💻 **About Me**
+- 🕸️ Interested in Web Development.
+- 🔭 Currently learning MERN stack.
+- 🌱 Exploring technologies for building Full Stack Applications.
 
-🕸️   I’m interested in Web Development.
+🛠 **Tech Stack**
+- 💻 JavaScript | ES6 
+- 🌐 HTML | CSS | ReactJS | Redux | Node.js | Express.js
+- 🛢 MongoDB 
+- 🔧 Git 
 
-🔭   Currently I’m learning MERN stack.
-
-🌱   Learning more about technologies that go into building Full Stack Applications.
-
-
-🛠 Tech Stack
-
-💻   JavaScript | ES6 
-
-🌐   HTML | CSS | ReactJS | Redux | Node.js | Express.js
-
-🛢   MongoDB 
-
-🔧   Git 
-
-🤝🏻 Connect with Me
-
+🤝🏻 **Connect with Me**
+- [LinkedIn]https://www.linkedin.com/in/santhanam1994/
+- [GitHub]https://github.com/Santhanam-M
+- ✉️ Email me: santhanamui@gmail.com
